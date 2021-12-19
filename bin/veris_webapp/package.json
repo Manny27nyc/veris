@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "ajv": "^6.12.6",
-    "css-loader": "^5.0.1",
+    "css-loader": "^5.2.7",
     "file-saver": "^2.0.5",
     "json-rules-engine-simplified": "^0.1.17",
     "jszip": "^3.5.0",
